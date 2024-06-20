@@ -7,6 +7,7 @@ A student from Computer Networks and Security.
 Greetings! I am Navveen Nair, hailing from the vibrant city of Johor Bahru. As a proud student of the prestigious Universiti Teknologi Malaysia (UTM), I have embarked on an academic journey that has been both challenging and rewarding. My time at UTM has been marked by a relentless pursuit of knowledge, which has allowed me to excel in various projects and collaborations. As I stand on the midst of completing my studies, I reflect on the milestones I've achieved and the skills I've cultivated. These experiences have not only shaped me into a well-rounded individual but also prepared me to make meaningful contributions to my field of study and beyond. Let me take you through a more detailed account of my accomplishments and the expertise I bring throughout the years of my university life .
 
 *   🌍  I'm based in Johor Bahru , Malaysia.
+*   Education : Bachelor in Computer Science ( Computer Network and Security )
 *   ✉️  You can contact me at [navveennair@graduate.utm.my](mailto:navveennair@graduate.utm.my)
 *   🧠  I'm learning Web Programming (Java, JavaScript, PHP)
 *   DO CHECK MY E-PORTFOLIO HERE : https://6673e7aa7ffbc4192be237e7--rococo-macaron-8fbe2e.netlify.app/
