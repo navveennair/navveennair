@@ -4,7 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 A student from Computer Networks and Security.
 ----------------------------------------------
 <p align ="center">
-<img src="https://github.com/navveennair/eportfolio/blob/main/photo_2024-06-20_16-37-42.jpg" alt="Navveen Nair's Photo" width="400">
+<img src="https://github.com/navveennair/eportfolio/blob/main/photo_2024-06-20_16-37-42.jpg" alt="Navveen Nair's Photo" width="200">
 </p>
 
 - Greetings! I am Navveen Nair, hailing from the vibrant city of Johor Bahru. As a proud student of the prestigious Universiti Teknologi Malaysia (UTM), I have embarked on an academic journey that has been both challenging and rewarding. My time at UTM has been marked by a relentless pursuit of knowledge, which has allowed me to excel in various projects and collaborations. As I stand on the midst of completing my studies, I reflect on the milestones I've achieved and the skills I've cultivated. These experiences have not only shaped me into a well-rounded individual but also prepared me to make meaningful contributions to my field of study and beyond. Let me take you through a more detailed account of my accomplishments and the expertise I bring throughout the years of my university life.
