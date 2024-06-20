@@ -9,7 +9,7 @@ Greetings! I am Navveen Nair, hailing from the vibrant city of Johor Bahru. As a
 *   🌍  I'm based in Johor Bahru , Malaysia.
 *   ✉️  You can contact me at [navveennair@graduate.utm.my](mailto:navveennair@graduate.utm.my)
 *   🧠  I'm learning Web Programming (Java, JavaScript, PHP)
-*   DO CHECK MY E-PORTFOLIO HERE : https://ubiquitous-vacherin-e1325e.netlify.app/
+*   DO CHECK MY E-PORTFOLIO HERE : https://6673e7aa7ffbc4192be237e7--rococo-macaron-8fbe2e.netlify.app/
 
 ### Skills
 
