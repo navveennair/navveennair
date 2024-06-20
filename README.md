@@ -42,7 +42,7 @@ From this assignment , I was able to comprehend that this project made us unders
   - Reflection : Developed a responsive website showcasing personal portfolio and projects. The site incorporates HTML, CSS, and JavaScript to demonstrate proficiency in front-end development.
 With this assignment , I was able to input my Java and CSS knowledge into making a proper portfolio with some aid of JavaScript animation.This assignment was a practical exercise in applying theoretical knowledge to create a tangible product. It highlighted the significance of design principles, responsive layouts, and user experience in web development. Additionally, it emphasized the continuous learning process involved in web programming, where staying updated with new techniques and best practices is important . The project also required a collaborative environment, where my team members contributed their strengths and learned from each other. Overall, this assignment was a valuable learning experience that equipped us with practical skills and insights into web development.
 
-- [Assignment 3](https://6673e7aa7ffbc4192be237e7--rococo-macaron-8fbe2e.netlify.app/)
+- [Assignment 3](https://6673e8b4d230f50d6900e69e--bucolic-dusk-447610.netlify.app/)
   - Reflection : Made a fully functioning eportfolio website that gave me furthur knowledge on how to develop a more proper looking website.
                    
                     
