@@ -39,7 +39,7 @@ A student from Computer Networks and Security.
 ### Assignments
 
 - Assignment 1 : [Web Programming Assignment 1](https://github.com/navveennair/assignment/blob/c743d7c8498600fa6d546e1eec8c803ce4c8b52c/WEB%20PROGRAMMING%20ASSIGNMENT%201.pdf)
-  - Reflection: This assignment involved researching and writing a report on the evolution of web technologies and their impact on modern business practices. From this assignment, I was able to comprehend that this project made us understand the essential elements of web performance and the significance of standards in web development. The practical assessment using Lighthouse offered valuable insights into actual challenges and strategies for optimization. It underscored the importance of ongoing monitoring and enhancement to align with contemporary web norms, elevate user satisfaction, and uphold strong security measures.
+  - Reflection: This assignment involved researching and writing a report on the evolution of web technologies and their impact on modern business practices. From this assignment, I was able to comprehend that this project made us understand the essential elements of web performance and the significance of standards in web development.
 
 - Assignment 2: [Web Programming Assignment 2](https://6673e8b4d230f50d6900e69e--bucolic-dusk-447610.netlify.app/)
   
