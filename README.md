@@ -32,13 +32,18 @@ Greetings! I am Navveen Nair, hailing from the vibrant city of Johor Bahru. As a
 <a href="http://www.github.com/navveennair"><img src="https://github-readme-streak-stats.herokuapp.com/?user=navveennair&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/navveennair"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=navveennair&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ### Assignments 
 - Assignment 1 : https://github.com/navveennair/assignment/blob/c743d7c8498600fa6d546e1eec8c803ce4c8b52c/WEB%20PROGRAMMING%20ASSIGNMENT%201.pdf
-  - Reflection : 
-- Assignment 2 : 
-  - Reflection :
+  - Reflection : This assignment involved researching and writing a report on the evolution of web technologies and their impact on modern business practices.
+From this assignment , I was able to comprehend that this project made us understand the essential elements of web performance and the significance of standards in web development. The practical assessment using Lighthouse offered valuable insights into actual challenges and strategies for optimization. It underscored the importance of ongoing monitoring and enhancement to align with contemporary web norms, elevate user satisfaction, and uphold strong security measures.
+
+- Assignment 2: Website
+  - Reflection : Developed a responsive website showcasing personal portfolio and projects. The site incorporates HTML, CSS, and JavaScript to demonstrate proficiency in front-end development.
+With this assignment , I was able to input my Java and CSS knowledge into making a proper portfolio with some aid of JavaScript animation.This assignment was a practical exercise in applying theoretical knowledge to create a tangible product. It highlighted the significance of design principles, responsive layouts, and user experience in web development. Additionally, it emphasized the continuous learning process involved in web programming, where staying updated with new techniques and best practices is important . The project also required a collaborative environment, where my team members contributed their strengths and learned from each other. Overall, this assignment was a valuable learning experience that equipped us with practical skills and insights into web development.
+
 - Assignment 3 : https://ubiquitous-vacherin-e1325e.netlify.app/
-  - Reflection : 
+  - Reflection : Made a fully functioning eportfolio website that gave me furthur knowledge on how to develop a more proper looking website.
                    
                     
     
