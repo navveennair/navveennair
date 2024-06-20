@@ -33,12 +33,12 @@ Greetings! I am Navveen Nair, hailing from the vibrant city of Johor Bahru. As a
 
 <a href="http://www.github.com/navveennair"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=navveennair&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ### Assignments 
-Assignment 1 : https://github.com/navveennair/assignment/blob/c743d7c8498600fa6d546e1eec8c803ce4c8b52c/WEB%20PROGRAMMING%20ASSIGNMENT%201.pdf
-Reflection : 
-Assignment 2 : 
-Reflection :
-Assignment 3 : https://ubiquitous-vacherin-e1325e.netlify.app/
-Reflection : 
+- Assignment 1 : https://github.com/navveennair/assignment/blob/c743d7c8498600fa6d546e1eec8c803ce4c8b52c/WEB%20PROGRAMMING%20ASSIGNMENT%201.pdf
+  - Reflection : 
+- Assignment 2 : 
+  - Reflection :
+- Assignment 3 : https://ubiquitous-vacherin-e1325e.netlify.app/
+  - Reflection : 
                    
                     
     
