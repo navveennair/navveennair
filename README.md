@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Navveen Nair Manoharan
 ==============================================================================================================================================
-![Navveen Logo](repository/photo_2024-06-20_16-37-42.jpg)
+- ![Navveen Logo](eportfolio/photo_2024-06-20_16-37-42.jpg)
 A student from Computer Networks and Security.
 ----------------------------------------------
 
