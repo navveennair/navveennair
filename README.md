@@ -42,6 +42,7 @@ A student from Computer Networks and Security.
   - Reflection: This assignment involved researching and writing a report on the evolution of web technologies and their impact on modern business practices. From this assignment, I was able to comprehend that this project made us understand the essential elements of web performance and the significance of standards in web development.
 
 - Assignment 2: [Web Programming Assignment 2](https://6673e8b4d230f50d6900e69e--bucolic-dusk-447610.netlify.app/)
+                [Group Portfolio](https://6630f2c86353e510bad3265e--splendid-naiad-8dd5e8.netlify.app/) 
   
   - Reflection: Developed a responsive website showcasing personal portfolio and projects. The site incorporates HTML and CSS to demonstrate proficiency in front-end development. With this assignment, I was able to input my Java and CSS knowledge into making a proper portfolio with some aid of JavaScript animation. This assignment was a practical exercise in applying theoretical knowledge to create a good and working product. It highlighted the significance of design principles, responsive layouts, and good interface with proper whitespaces in webpage . Additionally, it emphasized the continuous learning process involved in web programming, where staying updated with new techniques and best practices is important. 
 
